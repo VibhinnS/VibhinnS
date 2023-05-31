@@ -7,7 +7,7 @@ I'm intrigued by tech and focused towards building and \*shipping\* shit.
 * 🌍  Based in India (land of tunak tunak)
 * ✉️  Contact me at [vibhinnsinghal@gmail.com](mailto:vibhinnsinghal@gmail.com)
 * 🧠  Currently working with Python, JavasScript, Ruby, Ruby on Rails and Solidity
-* 🤝  Open to collaborating on anything
+* 🤝  Open to collaborate on anything
 * ⚡  DM me to know the color of my Bugatti
 
 ### Skills
