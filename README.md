@@ -13,4 +13,4 @@ I'm intrigued by tech and focused towards building and \*shipping\* shit.
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,py,ruby,rails,git,github,firebase,react,solidity,tailwind,vercel,vscode,webflow,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,lua,py,ruby,rails,git,github,firebase,react,solidity,tailwind,vercel,vscode,webflow,webpack)](https://skillicons.dev)
