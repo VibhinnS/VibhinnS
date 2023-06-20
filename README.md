@@ -13,7 +13,7 @@ I'm intrigued by tech and focused towards building and \*shipping\* shit.
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,py,ruby,rails,git,github,firebase,react,solidity,tailwind,vercel,vscode,webflow,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,py,ruby,rails,git,github,react,solidity,vercel,vscode,webflow)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhinnS&theme=tokyonight)
 
