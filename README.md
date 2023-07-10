@@ -6,7 +6,7 @@ I love building and shipping stuff.....
 
 * 🌍  Based in India (land of tunak tunak)
 * ✉️  Contact me at [vibhinnsinghal@gmail.com](mailto:vibhinnsinghal@gmail.com)
-* 🧠  Currently working with Python, JavasScript, Ruby, Lua, Ruby on Rails and Solidity
+* 🧠  Currently working with Python, JavasScript, Ruby, Ruby on Rails and Solidity
 * 🤝  Open to collaborate on anything
 * ⚡  DM me to know the color of my Bugatti
 
