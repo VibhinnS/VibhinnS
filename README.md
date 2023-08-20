@@ -13,7 +13,7 @@ I love building and shipping stuff.....
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,py,ruby,rails,github,react,solidity,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,py,ruby,rails,github,react,solidity,vscode)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhinnS&theme=tokyonight)
 
