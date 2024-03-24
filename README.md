@@ -6,7 +6,7 @@ I'm learning to code.....
 
 * 🌍  Based in India
 * ✉️  Contact me at [vibhinnsinghal@gmail.com](mailto:vibhinnsinghal@gmail.com)
-* 🧠  Currently working with Python, JavasScript and Ruby on Rails
+* 🧠  Currently working with Python, JavasScript and Ruby on Rails (js is shit btw) ;)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhinnS&theme=tokyonight)
