@@ -4,7 +4,7 @@ I'm learning to code.....
 -------------------------------------------------------------------------
 * 🌍  Based in India
 * ✉️  Contact me at [vibhinnsinghal@gmail.com](mailto:vibhinnsinghal@gmail.com)
-* 🧠  Currently working with Python, JavasScript and Ruby on Rails (js is shit btw) ;)
+* 🧠  Currently working with Python, JavasScript and Ruby on Rails
 * Learning Data Structures and Algorithms in Python
 
 
