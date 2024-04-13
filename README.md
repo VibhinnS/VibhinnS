@@ -7,9 +7,7 @@ I'm learning to code.....
 * 🧠  Currently working with Python, JavasScript and Ruby on Rails
 * Learning Data Structures and Algorithms in Python
 
-<div style="justifry-content:center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhinnS&theme=tokyonight)
-</div>
 
 <div>
   <img src="https://badges.pufler.dev/years/VibhinnS" alt="Years Badge"  /> 
