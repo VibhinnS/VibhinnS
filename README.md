@@ -9,3 +9,20 @@ I'm learning to code.....
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhinnS&theme=tokyonight)
+
+<div>
+  <img src="https://badges.pufler.dev/years/VibhinnS" alt="Years Badge"  /> 
+  <img src="https://badges.pufler.dev/repos/VibhinnS" alt="Repos Badge"  /> 
+  <img src="https://badges.pufler.dev/commits/monthly/VibhinnS" alt="Updated Badge"  /> 
+</div>
+<br>
+
+ ![](https://github-readme-stats.vercel.app/api?username=VibhinnS&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+</div> -->
+
+<div align="center">
+ 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=VibhinnS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<img width="48%" alt="Vibhinn's most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=VibhinnS&theme=react&border=61dafb&hide_border=true" />
+<div>
