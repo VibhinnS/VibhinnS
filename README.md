@@ -17,9 +17,6 @@ I'm learning to code.....
 </div>
 <br>
 
- ![](https://github-readme-stats.vercel.app/api?username=VibhinnS&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-</div> -->
-
 <div align="center">
  
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VibhinnS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
