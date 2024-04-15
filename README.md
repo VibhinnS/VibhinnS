@@ -1,5 +1,4 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Vibhinn
-===============================================================================================================================
 I'm learning to code.....
 -------------------------------------------------------------------------
 * 🌍 Based in India
@@ -7,9 +6,7 @@ I'm learning to code.....
 * 🧠 Currently working with Python, JavasScript and Ruby on Rails
 * Learning Data Structures and Algorithms in Python
 
-<div align="center">
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhinnS&theme=tokyonight)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhinnS&theme=tokyonight)
 <div>
    <img src="https://badges.pufler.dev/years/VibhinnS" alt="Years Badge"  /> 
    <img src="https://badges.pufler.dev/repos/VibhinnS" alt="Repos Badge"  /> 
