@@ -7,8 +7,9 @@ I'm learning to code.....
 * 🧠  Currently working with Python, JavasScript and Ruby on Rails
 * Learning Data Structures and Algorithms in Python
 
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhinnS&theme=tokyonight)
-
+</div>
 <div>
   <img src="https://badges.pufler.dev/years/VibhinnS" alt="Years Badge"  /> 
   <img src="https://badges.pufler.dev/repos/VibhinnS" alt="Repos Badge"  /> 
@@ -18,7 +19,13 @@ I'm learning to code.....
 
 <div align="center">
  
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=VibhinnS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<p align="center">
+   <a>
+   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VibhinnS&theme=dark&hide_border=true"/>
+   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+   </a>
+</p>
 
 <img width="48%" alt="Vibhinn's most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=VibhinnS&theme=react&border=61dafb&hide_border=true" />
 <div>
