@@ -5,6 +5,7 @@ I'm learning to code.....
 * ✉️ Contact me at [vibhinnsinghal@gmail.com](mailto:vibhinnsinghal@gmail.com)
 * 🧠 Currently working with Python, JavasScript and Ruby on Rails
 * Learning Data Structures and Algorithms in Python
+* Ex Formula Student Member [FS Italy, FS Czech, FS India (Formula Bharat)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhinnS&theme=tokyonight)
 <div>
