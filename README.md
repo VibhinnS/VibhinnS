@@ -6,11 +6,9 @@ Indie Hacker | Racing | Shitposting
 * 🧠 Currently working with Python, JavasScript and Ruby on Rails
 * 🏎 Ex Formula Student [FS Italy, FS Czech, FS India (Formula Bharat)]
 
-<div align="center">
    <p align="center">
-         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhinnS&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhinnS&theme=tokyonight)
    </p>
-</div>
 
 <br>
 
