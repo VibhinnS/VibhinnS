@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Vibhinn, 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱 𝗤𝘂𝗶𝗻𝘁𝘂𝗽𝗹𝗲-𝗣𝗹𝗮𝘁𝗶𝗻𝘂𝗺 𝗙𝘂𝗻𝗻𝘆𝗺𝗮𝗻 👨‍💻</div>  
   
@@ -20,7 +16,7 @@
 
 
 
-### Skills  
+### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
