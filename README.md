@@ -7,7 +7,9 @@ Indie Hacker | Racing | Shitposting
 * 🧠 Currently working with Python, JavasScript and Ruby on Rails
 * 🏎 Ex Formula Student [FS Italy, FS Czech, FS India (Formula Bharat)]  
 
+
 <br/>  
+<img src="https://github-profile-trophy.vercel.app/?username=VibhinnS&column=7&theme=onedark"/>
 
 ## Technologies  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibhinnS&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>  
